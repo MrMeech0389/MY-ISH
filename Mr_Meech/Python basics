@@ -1,0 +1,5 @@
+print : this will display whatever you are writing. 
+\n and \r will cut lines off basically condensing a line
+a can be a precursor as well as b. You then can have line c read as a + b = c
+imput is nothing more than just adding a response 
+int = and interger 

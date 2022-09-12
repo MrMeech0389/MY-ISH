@@ -1,0 +1,16 @@
+<html>
+    <body>
+
+    <h1>Sye's Gym</h1>
+    <h2>Not for the Faint Hearted</h2>
+    <p>Here at Sye's Gym, we believe in three things</p>
+    <p>1. Stay clapping them cheeks</p>
+    <p>2. Never tell your kids you love them</p>
+    <p>3. Always look angry as FUCK in the gym</p>
+    <h2> Get after it KINGS, stay TOXIC</h2>
+    <p>*membership fees varies on members max bench*</p>
+    <p>***Starting Membership rate: $100 a week****</p>
+    </body>
+</html>
+    
+soup = Beautifulsoup(html_doc, 'html.parser')
